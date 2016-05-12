@@ -1,7 +1,7 @@
 {
   "name": "eyeos-modal-window-lib",
   "description": "Bootstrap-dialog wrapper",
-  "version": "0.0.18",
+  "version": "0.0.17",
   "main": [
     "dist/eyeosModalWindow.min.css",
     "dist/eyeosModalWindow.min.js"
